@@ -1,0 +1,7 @@
+*.dll
+*.pdp
+*.Runtime.pdp
+*.sln
+packages/
+bin/
+.vs/ASPDatabase
